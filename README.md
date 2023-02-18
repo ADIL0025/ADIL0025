@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **API**
+- 🤝 I’m looking for help with **MERN Stack**
 
 - 💬 Ask me about anything in **Web Development:)**
 
