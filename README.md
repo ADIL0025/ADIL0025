@@ -88,10 +88,14 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adil0025&show_icons=true&locale=en&layout=compact" alt="adil0025" /></p>
+## Github Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil0025&show_icons=true&locale=en" alt="adil0025" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil0025&theme=radical)
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=adil0025&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil0025&" alt="adil0025" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adil0025&show_icons=true&locale=en&layout=compact" alt="pks2906" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adil0025&" alt="pks2906" /></p>
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qm9tn5fz5lyvt1xlat7kmp8h3&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
