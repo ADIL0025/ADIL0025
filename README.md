@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 💬 Ask me about anything in **Web Development:)**
+- 💬 Ask me about anything in **Web Development <3**
 
 - 📫 How to reach me **adilahmad0025@gmail.com**
 
