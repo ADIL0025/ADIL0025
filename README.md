@@ -93,3 +93,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil0025&show_icons=true&locale=en" alt="adil0025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil0025&" alt="adil0025" /></p>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qm9tn5fz5lyvt1xlat7kmp8h3&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
