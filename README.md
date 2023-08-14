@@ -91,11 +91,28 @@
 ## Github Stats  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil0025&theme=radical)
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=adil0025&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adil0025&theme=midnight-purple)](https://git.io/streak-stats)
+   
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adil0025&theme=moonlight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adil0025&theme=moonlight)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adil0025&show_icons=true&locale=en&layout=compact" alt="pks2906" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adil0025&" alt="pks2906" /></p>
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qm9tn5fz5lyvt1xlat7kmp8h3&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wd3wd5ynk3eschjk63lppltjxm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=adil0025&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
