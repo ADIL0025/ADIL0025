@@ -84,6 +84,13 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
+
+
+
+
+
+
+
 </td></tr></table>  
 
 <br/>  
@@ -96,7 +103,7 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adil0025&theme=moonlight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adil0025&theme=moonlight)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil0025" alt="adil0025" /></a> </p>
 
 
   
