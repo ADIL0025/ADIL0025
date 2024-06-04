@@ -97,6 +97,11 @@
 
 <br/>  
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 ## Github Stats  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil0025&theme=radical)
@@ -109,12 +114,13 @@
 
 
 
-  
 
-  
-<br clear="both">
+![Adil's github stats](https://github-readme-stats.vercel.app/api?username=ADIL0025&show_icons=true&hide=[%22issues%22])
 
-<img src="https://raw.githubusercontent.com/ADIL0025/ADIL0025/output/snake.svg" alt="Snake animation" />
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ADIL0025&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   
 
