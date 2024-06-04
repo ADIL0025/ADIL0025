@@ -112,7 +112,9 @@
   
 
   
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ADIL0025/ADIL0025/output/snake.svg" alt="Snake animation" />
 
   
 
