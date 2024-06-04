@@ -115,7 +115,7 @@
 
 
 
-![Adil's github stats](https://github-readme-stats.vercel.app/api?username=ADIL0025&show_icons=true&hide=[%22issues%22])
+![Adil's github stats](https://github-readme-stats.vercel.app/api?username=ADIL0025&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
