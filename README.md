@@ -105,7 +105,7 @@
 
  
 ## Github Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil0025&theme=radical)
+<!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil0025&theme=radical) --->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adil0025&theme=midnight-purple)](https://git.io/streak-stats)
    
   
